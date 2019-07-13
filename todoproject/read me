@@ -1,0 +1,28 @@
+Name: ahmed saad 
+Track:os
+number:2
+project TODO
+*create table users :
+recordid :
+name:"ahmed"
+password:"1234"
+=================================
+2- create table TodoList:
+recordid:
+title:
+description:
+status:
+userId:
+==================================
+i will write obj if u want to use it 
+====================================
+URL:http://todo.com/
+its virtual host
+======================================
+everything its ok except after  login when u refresh he show error msg but when u close it 
+msg will disappear 
+this happen because every time he try to select again and return undfine and i check if it undfine show error msg but he stored in local storge and if u want to exit use logout 
+==================
+when u dblclick to update it showing form and u can update and cancel button is activted 
+but if u want to use dbl click to disapper it there are 2 line code in function dblclik i commented it it make that happen 
+========================================= thax eng:peter for everything :)
